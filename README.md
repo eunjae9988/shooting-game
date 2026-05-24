@@ -15,3 +15,7 @@ fixed tuple division error in screen.get_size()
 ixed infinite loop by mergining while loops
 Unified character position variables
 Added movment logic for UP,DOWN,RIGHT,LEFT key.
+
+Summary
+A lightweight space shooting game built using python and pygame. 
+It uses geometric character designs and custom math and is built with a clean loop.
